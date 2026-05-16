@@ -8,7 +8,6 @@ Once a patient is authenticated, the system retrieves critical health data—suc
 
 ---
 
-
 ## ✨ Key Features
 * **Multi-Biometric Security:** Combines R307 fingerprint matching with ESP32-CAM real-time face capture for robust authentication.
 * **Cloud Integration:** Real-time data synchronization using Firebase Realtime Database.
