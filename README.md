@@ -64,12 +64,5 @@ Once a patient is authenticated, the system retrieves critical health data—suc
    * Update the WiFi `ssid` and `password` credentials in both scripts before uploading.
 
 ---
-
-## 👥 Contributors
-* Yash Chauhan (06911502822)
-* Ridyansh Thakur (07411502822)
-* Garvit Bharadwaj (08711502822)
-* Rohit Kumar (09611502822)
-
 **Guided by:** Dr. Mihika, Assistant Professor  
 Bharati Vidyapeeth's College of Engineering, New Delhi
