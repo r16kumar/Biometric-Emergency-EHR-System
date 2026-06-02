@@ -4,15 +4,15 @@
 
 This repository contains the hardware firmware, web UI components, and documentation for a portable, cloud-based Emergency Health Record (EHR) access system. Built using an ESP32 DevKit V1 and ESP32-CAM, this IoT solution utilizes multi-biometric authentication (fingerprint and facial capture) to securely and rapidly identify unconscious or unresponsive patients during medical emergencies.  
 
-Once a patient is authenticated, the system retrieves critical health data—such as blood type, known allergies, and medical conditions—from a Firebase Realtime Database. The information is instantly displayed locally on an OLED screen and synchronized to a Netlify-hosted web dashboard, ensuring that first responders have immediate access to life-saving information without relying on the patient's personal devices.
+Once a patient is authenticated, the system retrieves critical health data such as blood type, known allergies, and medical conditions from a Firebase Realtime Database. The information is instantly displayed locally on an OLED screen and synchronized to a Netlify hosted web dashboard, ensuring that first responders have immediate access to life-saving information without relying on the patient's personal devices.
 
 ---
 
 ## ✨ Key Features
-* **Multi-Biometric Security:** Combines R307 fingerprint matching with ESP32-CAM real-time face capture for robust authentication.
+* **Multi-Biometric Security:** Combines R307 fingerprint matching with ESP32-CAM real time face capture for robust authentication.
 * **Cloud Integration:** Real-time data synchronization using Firebase Realtime Database.
 * **Instant Visualization:** Critical data is displayed locally on a 1.3" OLED screen.
-* **QR-Based Registration:** Dynamic QR code generation for frictionless patient onboarding via a Netlify-hosted web dashboard.
+* **QR-Based Registration:** Dynamic QR code generation for frictionless patient onboarding via a Netlify hosted web dashboard.
 
 ---
 
